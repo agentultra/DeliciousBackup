@@ -1,0 +1,29 @@
+Delicious Backup
+----------------
+
+
+Once you've cloned the respository, you can install it using setup.py:
+
+
+'''
+python setup.py install
+'''
+
+It will add a script to your PATH called 'dbackup'.
+
+To back up your bookmarks, just run:
+
+'''
+dbackup --username=<your-username> --password=<your-password> --file=<path-to-your-new-db>
+'''
+
+Of course, you can get help on the options by just typing:
+
+'''
+dbackup --help
+'''
+
+I mainly just made this for myself, but if anyone finds it useful feel
+free to use it and modify to taste.  100% public domain.
+
+Cheers

@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+DeliciousBackup.egg-info/PKG-INFO
+DeliciousBackup.egg-info/SOURCES.txt
+DeliciousBackup.egg-info/dependency_links.txt
+DeliciousBackup.egg-info/entry_points.txt
+DeliciousBackup.egg-info/not-zip-safe
+DeliciousBackup.egg-info/top_level.txt
+deliciousbackup/__init__.py
